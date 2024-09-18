@@ -1,7 +1,7 @@
 # Projeto: HDC Host
-<img src="img/home1.PNG" alt="HTML" width="1060" height="1060">
-<img src="img/home2.png" alt="HTML" width="1060" height="1060">
-<img src="img/home3.png" alt="HTML" width="1060" height="1060">
+<img src="img/home1.PNG" alt="HTML">
+<img src="img/home2.png" alt="HTML">
+<img src="img/home3.png" alt="HTML">
 
 ## Estrutura do projeto:
 
